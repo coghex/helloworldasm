@@ -1,0 +1,3 @@
+helloworld is the dissasembled C code
+myhello is the assembly code as written by me
+hello2 is the assembly code with a currupted ELF file to make it super small
